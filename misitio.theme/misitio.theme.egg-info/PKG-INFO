@@ -1,0 +1,27 @@
+Metadata-Version: 1.0
+Name: misitio.theme
+Version: 0.1
+Summary: descripcion corta del paquete tema
+Home-page: git@github.com:lefway/misitio.theme.git
+Author: luis eduardo florez bautista
+Author-email: lflorez@vtv.gob.ve
+License: GPL
+Description: Introduction
+        ============
+        
+        descripcion larga del paquete tema
+        
+        This product may contain traces of nuts.
+        
+        Changelog
+        =========
+        
+        0.1dev (unreleased)
+        -------------------
+        
+        - Initial release
+        
+Keywords: plone
+Platform: UNKNOWN
+Classifier: Framework :: Plone
+Classifier: Programming Language :: Python
